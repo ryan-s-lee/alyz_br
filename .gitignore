@@ -1,1 +1,5 @@
 analyze_branches
+
+perf.data
+perf.data*
+dump.txt
